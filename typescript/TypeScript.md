@@ -14,3 +14,10 @@ TypeScript 的类型检查器旨在允许正确的程序通过，同时尽可能
 ts=带类型的js
 
 TypeScript 是 JavaScript 的运行时，并带有编译时类型检查器
+
+ts类型
+1. js基本类型：string number boolean null undefined symbol bigint
+2. any：任意类型
+3. void：返回undefined或者没有返回值
+4. unknown：需要使用者定义该类型是什么
+5. never：这种类型不可能存在

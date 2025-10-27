@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b23a54fdd653ae",
+        "id": "04656b595f4841be",
         "type": "tabs",
         "children": [
           {
-            "id": "7487777cfbc3b2ab",
+            "id": "b365e04a261cf39e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,12 +180,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7487777cfbc3b2ab",
+  "active": "b365e04a261cf39e",
   "lastOpenFiles": [
+    "typescript/TODO.md",
+    "typescript/TypeScript.md",
+    "temp.md",
+    "typescript/attachments/Pasted image 20251027171355.png",
+    "typescript/attachments",
+    "Pasted image 20251027171233.png",
+    "Pasted image 20251027171223.png",
+    "temp",
     "typescript/未命名.base",
     "Untitled.md",
-    "typescript/TypeScript.md",
-    "欢迎.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "typescript",

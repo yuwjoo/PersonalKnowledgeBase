@@ -5,3 +5,6 @@ function greet(person: string, date: Date) {
 }
 
 greet("Maddison", new Date());
+
+let aa: string;
+let bb = aa as "aa"

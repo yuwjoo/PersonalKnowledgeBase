@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/随手笔记.md",
+                "file": "typescript/类型系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "随手笔记"
+              "title": "类型系统"
             }
           }
         ]
@@ -182,12 +182,19 @@
   },
   "active": "250e85f3868f9301",
   "lastOpenFiles": [
-    "typescript/tsc.md",
-    "typescript/TypeScript.md",
     "typescript/随手笔记.md",
     "typescript/类型系统.md",
+    "typescript/code/index.d.ts",
+    "typescript/code/index.d.ts.map",
+    "typescript/code/index.js",
+    "typescript/code/index.js.map",
     "typescript/专业术语.md",
     "typescript/配置文件.md",
+    "typescript/tsc.md",
+    "typescript/TypeScript.md",
+    "temp.md",
+    "typescript/思维图.canvas",
+    "typescript/未命名.md",
     "typescript/测试.md",
     "类型系统.md",
     "配置文件.md",
@@ -195,15 +202,10 @@
     "typescript/attachments/Pasted image 20251028170245.png",
     "typescript/attachments",
     "typescript/attachments/Pasted image 20251028164412.png",
-    "temp.md",
-    "typescript/code/index.js",
     "新建 文本文档.txt",
     "typescript/code/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json",
     "typescript/code/node_modules/typescript/lib/zh-tw",
     "typescript/code/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json",
-    "typescript/code/node_modules/typescript/lib/zh-cn",
-    "typescript/code/node_modules/typescript/lib/ru/diagnosticMessages.generated.json",
-    "typescript/code/node_modules/typescript/lib/ru",
     "typescript/code/node_modules/typescript/SECURITY.md",
     "typescript/attachments/Pasted image 20251027171355.png",
     "Pasted image 20251027171233.png",

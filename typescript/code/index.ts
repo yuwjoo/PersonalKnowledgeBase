@@ -79,3 +79,21 @@ const makeDate: MakeDate = (m: number, d?: number, y?: number) => {
 };
 
 makeDate(22);
+
+enum Type {
+  one = "一",
+  two = "二",
+  three = "三",
+}
+
+interface Animal {
+  live(): void;
+}
+interface Dog extends Animal {
+  woof(): void;
+}
+
+const animal: Animal = { live() {} };
+const dog: Dog = { live() {}, woof() {} };
+
+const temp: Animal = dog;

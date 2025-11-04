@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/类型系统/类型的说明.md",
+                "file": "typescript/配置文件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "类型的说明"
+              "title": "配置文件"
             }
           }
         ]
@@ -182,16 +182,16 @@
   },
   "active": "35d445b0710bf981",
   "lastOpenFiles": [
-    "typescript/类型系统/结构化类型.md",
+    "typescript/专业术语.md",
     "typescript/类型系统/类型的分类.md",
     "typescript/类型系统/类型的说明.md",
     "typescript/类型系统/类型别名.md",
+    "typescript/类型系统/结构化类型.md",
     "typescript/类型系统/函数相关.md",
     "typescript/TypeScript.md",
     "typescript/tsc.md",
     "typescript/配置文件.md",
     "typescript/类型系统.md",
-    "typescript/专业术语.md",
     "typescript/随手笔记.md",
     "typescript/类型系统/类型的操作.md",
     "typescript/类型系统/interface.md",

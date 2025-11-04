@@ -97,3 +97,19 @@ const animal: Animal = { live() {} };
 const dog: Dog = { live() {}, woof() {} };
 
 const temp: Animal = dog;
+
+type Flatten<Type> = Type extends Array<infer Item> ? Item : Type;
+
+type aa = Flatten<(string|number)[]>
+
+type Getters<Type> = {
+    [Property in keyof Type as `get${Capitalize<string & Property>}`]: () => Type[Property]
+};
+ 
+interface Person {
+    name: string;
+    age: number;
+    location: string;
+}
+ 
+type LazyPerson = Getters<Person>;

@@ -36,7 +36,7 @@ type SomeConstructor = {
   new (b: number, a: string): void;
 };
 
-const aaFun: SomeConstructor;
+let aaFun: SomeConstructor;
 new aaFun(2, "");
 
 type User<T> = Array<T>;
@@ -113,3 +113,6 @@ interface Person {
 }
  
 type LazyPerson = Getters<Person>;
+
+let result = myLib.makeGreeting("hello, world");
+let count = myLib.numberOfGreetings;
